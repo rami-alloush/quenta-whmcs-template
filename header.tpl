@@ -15,7 +15,7 @@
   <div class="spinner">
     <div class="double-bounce1"></div>
     <div class="double-bounce2"></div>
-    <div class="spinner-txt">Antler...</div>
+    <div class="spinner-txt">Loading...</div>
   </div>
 </div>
 
@@ -118,7 +118,7 @@ NAV MENU
     <div class="row">
       <div class="col-sm-12 col-md-2">
         <a href="{$WEB_ROOT}/index.php">
-          <img src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.svg" class="svg logo-menu" alt="{$companyname}"/>
+          <img src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.png" class="svg logo-menu" alt="{$companyname}"/>
         </a>
         <div class="navbar-header">
           <button id="nav-toggle" type="button" class="navbar-toggle menu-toggle" data-toggle="collapse" data-target="#primary-nav">
@@ -137,7 +137,7 @@ NAV MENU
                 {include file="$template/includes/navbar.tpl" navbar=$primaryNavbar}
                 <li class="infos">
                   <a href="tel:+0000000000"><p class="c-grey">Phone: + (123) 1300-656-1046</p></a>
-                  <a href="mailto:antler@mail.com"><p class="c-grey">Email: antler@mail.com</p></a>
+                  <a href="mailto:hosting@quenta.tech"><p class="c-grey">Email: hosting@quenta.tech</p></a>
                   <a href="{$WEB_ROOT}/clientarea.php"><div class="btn btn-default-yellow-fill">Login</div></a>
                 </li>
               </ul>
@@ -165,8 +165,8 @@ OWL Carousel
               <div class="heading">Dedicated Server <div class="animatype">With <span id="typed3"></span></div></div>
               <h3 class="subheading">Powerful servers with high-end resources <br>that will guarantee resource exclusivity, <br>starting at just <b class="c-pink">$90.22/mo</b><br>
               </h3>
-              <a href="http://inebur.com/antler/template/dedicated" class="btn btn-default-yellow-fill mr-3">Get Prices</a>
-              <a href="http://inebur.com/antler/template/dedicated" class="btn btn-default-pink-fill">Learn more</a>
+              <a href="dedicated" class="btn btn-default-yellow-fill mr-3">Get Prices</a>
+              <a href="dedicated" class="btn btn-default-pink-fill">Learn more</a>
             </div>
           </div>
         </div>
@@ -228,7 +228,7 @@ OWL Carousel
               <h1 class="heading">Virtual <br>Cloud Servers</h1>
               <h3 class="subheading"><span class="c-pink">&#9679;</span> Immediate scalability<br><span class="c-pink">&#9679;</span> High performance <br><span class="c-pink">&#9679;</span> Fast deployment<br></h3>
               <a href="{$WEB_ROOT}/cart.php?gid=2" class="btn btn-default-yellow-fill mr-3">Get Prices</a>
-              <a href="http://inebur.com/antler/template/vps" class="btn btn-default-pink-fill">Learn more</a>
+              <a href="vps" class="btn btn-default-pink-fill">Learn more</a>
             </div>
           </div>
         </div>
@@ -268,7 +268,7 @@ PRICING TABLES
               <div class="title">Dedicated Server</div>
               <div class="fromer">annually get (20% discount)</div>
               <div class="price"><sup>$</sup>82.00 USD <span class="period">Monthly</span></div>
-              <a href="http://inebur.com/antler/template/configurator" class="btn btn-default-yellow-fill">Configure</a>
+              <a href="configurator" class="btn btn-default-yellow-fill">Configure</a>
             </div>
             <ul class="list-info bg-purple">
               <li><i class="icon-cpu"></i> <span class="c-pink">CPU</span><br> <span>4x 3.20Ghz 2 Cores</span></li>
@@ -363,8 +363,8 @@ BANNER
       <div class="row">
         <div class="col-sm-12 col-md-12">
           <div class="wrapper">
-            <h1 class="heading">Antler WHMCS Template</h1>
-            <h3 class="subheading">Best Hosting Provider with Support Premium 24/7/365.</h3>
+            <h1 class="heading">Quenta Tech Hosting</h1>
+            <h3 class="subheading">Premium Hosting Services with Outstanding Support 24/7/365</h3>
           </div>
         </div>
       </div>
@@ -394,7 +394,7 @@ BANNER
           {/if}
 
 <!-- ***** COLOR SCHEME ***** -->
-<section>
+<section hidden>
     <ul class="color-scheme">            
       <li class="pink"><a href="#" data-rel="pink" class="styleswitch"></a></li>
       <li class="blue"><a href="#" data-rel="blue" class="styleswitch"></a></li>

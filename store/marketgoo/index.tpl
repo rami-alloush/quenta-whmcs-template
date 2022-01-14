@@ -4,7 +4,7 @@
     <div class="hero">
         <div class="container">
             <div class="logo">
-                <img src="{$WEB_ROOT}/assets/img/marketconnect/marketgoo/logo.svg">
+                <img src="{$WEB_ROOT}/assets/img/marketconnect/marketgoo/logo.png">
             </div>
             <h2 class="strong-green">{lang key="store.marketgoo.headline"}</h2>
             <h2>{lang key="store.marketgoo.tagline"}</h2>

@@ -33,32 +33,32 @@ FOOTER
         <div class="col-xs-12 col-sm-3 col-md-3">
           <div class="heading">Hosting</div>
           <ul class="footer-menu classic">
-            <li class="menu-item"><a href="http://inebur.com/antler/template/hosting">Shared Hosting</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/dedicated">Dedicated Server</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/vps">Cloud Virtual (VPS)</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/domains">Domain Names</a></li>
+            <li class="menu-item"><a href="hosting">Shared Hosting</a></li>
+            <li class="menu-item"><a href="dedicated">Dedicated Server</a></li>
+            <li class="menu-item"><a href="vps">Cloud Virtual (VPS)</a></li>
+            <li class="menu-item"><a href="domains">Domain Names</a></li>
           </ul>
         </div>
         <div class="col-xs-12 col-sm-3 col-md-3">
           <div class="heading">Support</div>
           <ul class="footer-menu classic">
-            <li class="menu-item"><a href="http://inebur.com/antler/template/login">myAntler</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/knowledgebase-list">Knowledge Base</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/contact">Contact Us</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/faq">FAQ</a></li>
+            <li class="menu-item"><a href="login">Dashboard</a></li>
+            <li class="menu-item"><a href="knowledgebase-list">Knowledge Base</a></li>
+            <li class="menu-item"><a href="contact">Contact Us</a></li>
+            <li class="menu-item"><a href="faq">FAQ</a></li>
           </ul>
         </div>
         <div class="col-xs-12 col-sm-3 col-md-3">
           <div class="heading">Company</div>
           <ul class="footer-menu classic">
-            <li class="menu-item"><a href="http://inebur.com/antler/template/about">About Us</a> </li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/elements">Features</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/blog">Blog</a></li>
-            <li class="menu-item"><a href="http://inebur.com/antler/template/legal">Legal</a></li>
+            <li class="menu-item"><a href="about">About Us</a> </li>
+            <li class="menu-item"><a href="elements">Features</a></li>
+            <li class="menu-item"><a href="blog">Blog</a></li>
+            <li class="menu-item"><a href="legal">Legal</a></li>
           </ul>
         </div>
         <div class="col-xs-12 col-sm-3 col-md-3">
-          <a><img class="svg logo-footer" src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.svg" alt="logo"></a>
+          <a><img class="svg logo-footer" src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.png" alt="logo"></a>
           <div class="copyrigh">{lang key="copyrightFooterNotice" year=$date_year company=$companyname}</div>
           <div class="soc-icons">
             <a href=""><i class="fab fa-facebook-f"></i></a>
@@ -93,7 +93,7 @@ FOOTER
         <div class="col-md-6 col-lg-6">
           <ul class="footer-menu">
             <li class="menu-item by c-grey ml-0">Hybrid Design With ♥ by
-              <a href="http://inebur.com/" target="_blank">inebur</a>
+              <a href="https://Quenta.tech/" target="_blank">Quenta.tech</a>
             </li>
           </ul>
         </div>
