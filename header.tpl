@@ -118,7 +118,7 @@ NAV MENU
     <div class="row">
       <div class="col-sm-12 col-md-2">
         <a href="{$WEB_ROOT}/index.php">
-          <img src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.png" class="svg logo-menu" alt="{$companyname}"/>
+          <img src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.png" class="logo-menu" alt="{$companyname}"/>
         </a>
         <div class="navbar-header">
           <button id="nav-toggle" type="button" class="navbar-toggle menu-toggle" data-toggle="collapse" data-target="#primary-nav">

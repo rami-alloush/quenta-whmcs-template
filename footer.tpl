@@ -58,7 +58,7 @@ FOOTER
           </ul>
         </div>
         <div class="col-xs-12 col-sm-3 col-md-3">
-          <a><img class="svg logo-footer" src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.png" alt="logo"></a>
+          <a><img class="logo-footer" src="{$WEB_ROOT}/templates/{$template}/assets/img/logo.png" alt="logo"></a>
           <div class="copyrigh">{lang key="copyrightFooterNotice" year=$date_year company=$companyname}</div>
           <div class="soc-icons">
             <a href=""><i class="fab fa-facebook-f"></i></a>
